@@ -1,0 +1,84 @@
+html {
+	scroll-behavior : smooth;
+}
+
+h1 {
+	color : 000080;
+}
+
+h2 {
+	font-size : 30px;
+	font-family : 'Tahoma', serif;
+}
+
+nav {
+	color : #CCCC00;
+}
+
+table, th, td{
+	border : 1px solid blue;
+	font-size : 20px;
+	font-family : 'Tahoma', serif;
+}
+
+h1, h3, h4, h5 {
+	font-family : 'Tahoma', serif;
+	color : 000080;
+}
+
+.darkblue {
+	background-color : 000080;
+	color : #FFFFFF;
+}
+
+.lightblue {
+	background-color : 000080;
+	color : #FFFFFF;
+}
+
+.topnav {
+	background-color : #333;
+	overflow : hidden;
+}
+
+.topnav a {
+	float : left;
+	color : #f2f2f2;
+	text-align : center;
+	padding : 14px 16px;
+	text-decoration : none;
+	font-size : 17px;
+}
+
+.topnav a:hover {
+	background-color : #ddd;
+	color : black;
+}
+
+.topnav a.active {
+	background-color : #4CAF50;
+	color : #white;
+}
+
+.align-right {
+	margin-left : 3%;
+	margin-right : 4%;
+	text-align : justify;
+}
+
+table {
+	padding : 3px;
+}
+
+p {
+	font-size : 20px;
+	font-family : 'Tahoma', serif;
+}
+
+.smallBlack {
+	color : #000000;
+}
+
+.smallRed {
+	color : #FF0000;
+}
